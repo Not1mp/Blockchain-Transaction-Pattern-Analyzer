@@ -1,4 +1,4 @@
-# Ethereum Suspicious Wallet Detection
+# Blockchain-Transaction-Pattern-Analyzer
 
 A PySpark project that looks at how money moves between Ethereum wallets and flags wallets with suspicious patterns.
 
